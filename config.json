@@ -1,0 +1,15 @@
+[
+    {
+        "username": "Azure-Helper",
+        "name": "Abhiram",
+        "userimg": "https://avatars.githubusercontent.com/u/103818282?v=4",
+        "sort": "created",
+        "order": "asc",
+        "includeFork": false,
+        "theme": "dark.css",
+        "types": [
+            "all"
+        ],
+        "Telegram": "Azure_Helper"
+    }
+]
